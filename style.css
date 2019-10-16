@@ -1,0 +1,21 @@
+body{
+	background-color: #22b573;
+	padding: 25px;
+}
+.logo{
+	width: 201px;
+	float: right;
+}
+.navigation{
+	float: right;
+	margin-top: 30px;
+	margin-right: 77px;
+}
+.navigation-li{
+	display: inline-block;
+}
+a{
+	font-size: 48px;
+	color: white;
+	padding: 40px;
+}
