@@ -20,10 +20,51 @@ a{
 	padding: 40px;
 }
 .box{
-	width: 582;
+	width: 582px;
 	background-color: #fcee21;
 	float: left;
+	padding: 20px;
+	margin-top: 170px;
+	margin-left: 90px;
 }
 .pic1{
 	width: 151px;
+	float: right;
+}
+.text1{
+	float: left;
+	width: 370px;
+}
+.text2{
+	width: 550px;
+	float: left;
+    margin-top: 30px;
+}
+.box2 .pic1{
+	width: 151px;
+	float: left;
+}
+.box2 .text1{
+	float: right;
+	width: 370px;
+	color: #006837;
+}
+.box2 .text2{
+	width: 550px;
+	float: left;
+    margin-top: 30px;
+    color: #006837;
+}
+.box2{
+	width: 582px;
+	background-color: #fcee21;
+	float: left;
+	padding: 20px;
+    margin-top: 67px;
+    margin-right: 120px;
+    display: block;
+    float: right;
+}
+.conteinerfluit{
+	margin-top: 70px;
 }
