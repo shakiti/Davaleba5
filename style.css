@@ -24,8 +24,6 @@ a{
 	background-color: #fcee21;
 	float: left;
 	padding: 20px;
-	margin-top: 170px;
-	margin-left: 90px;
 }
 .pic1{
 	width: 151px;
@@ -60,11 +58,10 @@ a{
 	background-color: #fcee21;
 	float: left;
 	padding: 20px;
-    margin-top: 67px;
-    margin-right: 120px;
     display: block;
     float: right;
 }
 .conteinerfluit{
-	margin-top: 70px;
+	margin-top: 170px;
+	margin-left: 50px;
 }
